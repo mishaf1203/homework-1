@@ -46,6 +46,7 @@ public class Main {
         int totalWeightLoss = 7000; //1 килограмм равен 1 грамму, следовательно 7000 грамм
         int weightLoss250InDay = totalWeightLoss / 250;
 
+
         System.out.println("Понадобится " + weightLoss250InDay + " дней для похудения на 250 грамм в день");
 
         int weightLoss500InDay = totalWeightLoss / 500;
@@ -56,6 +57,7 @@ public class Main {
 
         System.out.println("Задача 5  ");
         //Задача 5
+
 
         float MashaSalary = 67760F;
         float DenisSalary = 83690F;
